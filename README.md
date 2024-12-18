@@ -1,5 +1,5 @@
 # MagWLED_Case
-3D Printable case for the excellent [MagWLED LED Controller](https://magwled.com/).
+3D printable case for the excellent [MagWLED LED Controller](https://magwled.com/).
 
 <img src="media/case_assembled.png" width="300" align="center"> <img src="media/case_exploded.png" width="300" align="center">
 
