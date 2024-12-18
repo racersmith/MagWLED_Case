@@ -1,7 +1,7 @@
 # MagWLED_Case
 3D Printable case for the excellent [MagWLED LED Controller](https://magwled.com/).
 
-![case](media/case_assembled.png | width="250px")
+<img src="media/case_assembled.png" width="250">
 
 
 * Captured power button
