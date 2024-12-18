@@ -1,7 +1,7 @@
 # MagWLED_Case
 3D Printable case for the excellent [MagWLED LED Controller](https://magwled.com/).
 
-<img src="media/case_assembled.png" width="250">
+<img src="media/case_assembled.png" width="300" align="center"> <img src="media/case_exploded.png" width="300" align="center">
 
 
 * Captured power button
@@ -11,5 +11,3 @@
 * Coin slot on each side for easy opening
 * Parameter lip to minimize dust path
 
-
-![case exploded](media/case_exploded.png)
