@@ -9,5 +9,4 @@
 * Recessed and chamfered USB-C port surround
 * Locating posts for the board and snap-fit closure
 * Coin slot on each side for easy opening
-* Parameter lip to minimize dust path
-
+* Perimeter lip to minimize dust path
